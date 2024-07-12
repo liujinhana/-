@@ -38,7 +38,7 @@
 
 我们创建一个hello_world.py文件，在文件中填入以下内容：
 
-![image-20240712143237239](C:\Users\popsmart\AppData\Roaming\Typora\typora-user-images\image-20240712143237239.png)
+![image-20240712143237239](/images/image-20240712143237239.png)
 
 在运行代码之前，需要先使用pip install gradio==4.29.0命令安装以下依赖包，然后在Web IDE的终端中运行了一个hello_world.py
 
