@@ -8,7 +8,7 @@
 ![img](/images/wps1.jpg) 
 =======
 ![img](/images/wps1.jpg) 
->>>>>>> 743c79f1106468fa9dded2f4987ac5ed29c6a48d
+
 
 ***\*2.创建开发机\**** 
 
@@ -18,7 +18,7 @@
 ![img](/images/wps2.jpg) 
 =======
 ![img](/images/wps2.jpg) 
->>>>>>> 743c79f1106468fa9dded2f4987ac5ed29c6a48d
+
 
 ## 2. 使用VScode的remote插件进行远程ssh连接 
 
@@ -60,7 +60,7 @@
 然后在右下角弹出来的提示窗口中点击“连接”就可以远程到开发机中了。
 
 ![img](/images/wps7.jpg)![img](/images/wps8.jpg) 
->>>>>>> 743c79f1106468fa9dded2f4987ac5ed29c6a48d
+
 
 ## 3. 端口映射 
 
@@ -90,7 +90,7 @@
 然后在本地浏览器中打开连接就可以看到web ui的界面了
 
 ![img](/images/wps11.jpg) 
->>>>>>> 743c79f1106468fa9dded2f4987ac5ed29c6a48d
+
 
 ## 4. 使用conda创建虚拟环境 
 
@@ -100,7 +100,7 @@
 ![img](/images/wps12.jpg) 
 =======
 ![img](/images/wps12.jpg) 
->>>>>>> 743c79f1106468fa9dded2f4987ac5ed29c6a48d
+
 
 **5****.2查看有哪些虚拟环境** 
 
@@ -114,7 +114,7 @@ conda info --envs
 ![img](/images/wps13.jpg) 
 =======
 ![img](/images/wps13.jpg) 
->>>>>>> 743c79f1106468fa9dded2f4987ac5ed29c6a48d
+
 
 **5****.3激活与退出虚拟环境** 
 
@@ -124,7 +124,7 @@ conda info --envs
 ![img](/images/wps14.jpg) 
 =======
 ![img](/images/wps14.jpg) 
->>>>>>> 743c79f1106468fa9dded2f4987ac5ed29c6a48d
+
 
 导出命令 
 
