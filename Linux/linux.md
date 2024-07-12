@@ -4,7 +4,7 @@
 
 平台地址：https://studio.intern-ai.org.cn/ 首先打开链接进入InternStudio，完成登录跳转到控制台界面，如下图所示：
 
-<<<<<<< HEAD
+
 ![img](/images/wps1.jpg) 
 =======
 ![img](/images/wps1.jpg) 
@@ -14,7 +14,7 @@
 
 这里选择创建个人开发机，名称自定义，Cuda版本为12.2，资源配置选择10%，时长默认就行。
 
-<<<<<<< HEAD
+
 ![img](/images/wps2.jpg) 
 =======
 ![img](/images/wps2.jpg) 
@@ -24,7 +24,7 @@
 
 安装好了VScode之后，可以在点击左侧的扩展页面，在搜索框中输入“SSH”，第一个就是我们要安装的插件，点开它“Install”就可以了。
 
-<<<<<<< HEAD
+
 ![img](/images/wps3.jpg) 
 
 安装完成插件以后，点击侧边栏的远程连接图标，在SSH中点击“+”按钮，添加开发机SSH连接的登录命令。
@@ -70,7 +70,7 @@
 
 在运行代码之前，需要先使用pip install gradio==4.29.0命令安装以下依赖包，然后在Web IDE的终端中运行了一个hello_world.py
 
-<<<<<<< HEAD
+
 ![img](/images/wps9.jpg) 
 
 运行python程序，在终端左边就有端口映射，当在开发机中新运行了一个端口vscode也会自动检测出来并且询问你是否映射。
@@ -96,7 +96,7 @@
 
 **5****.1创建虚拟环境** 我们可以使用conda create -n name python``=3.10创建虚拟环境，这里表示创建了python版本为3.10、名字为name的虚拟环境。创建后，可以在.conda目录下的envs目录下找到。
 
-<<<<<<< HEAD
+
 ![img](/images/wps12.jpg) 
 =======
 ![img](/images/wps12.jpg) 
@@ -110,7 +110,7 @@ conda info -e
 
 conda info --envs
 
-<<<<<<< HEAD
+
 ![img](/images/wps13.jpg) 
 =======
 ![img](/images/wps13.jpg) 
@@ -120,7 +120,7 @@ conda info --envs
 
 当我们创建完虚拟环境后我们可以使用conda activate wuji（名称自定义）命令来激活虚拟环境，如何查看是否切换成功呢？很简单，只需要看base是否变成了创建的虚拟环境的名称。
 
-<<<<<<< HEAD
+
 ![img](/images/wps14.jpg) 
 =======
 ![img](/images/wps14.jpg) 
